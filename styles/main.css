@@ -640,7 +640,9 @@ a:hover {
     margin: 170px 0px 0px 90px; } }
 
 .slides .carousel-inner .carousel-item img.bg-img {
-  width: 100%; }
+  width: 100%; 
+  height: 60vh;
+}
 
 .slides .carousel-inner .carousel-item .carousel-caption .carousel-image {
   border: 4px solid #938a92; }
@@ -732,7 +734,7 @@ a:hover {
     margin: 156px 0px 0px 44px; }
   .slides .carousel-inner .carousel-item img.bg-img {
     width: 100%;
-    height: 85vh; }
+    height: 50vh !important; }
   .category .category-main .box .content h2 {
     font-size: 23px; }
   .category .category-main .box .content h5 {
@@ -748,7 +750,7 @@ a:hover {
     margin: 83px 0px 59px 0px; }
   .slides .carousel-inner .carousel-item img.bg-img {
     width: 100%;
-    height: 80vh; }
+    height: 50vh; }
   .category .category-main .box .content
 h2 {
     font-size: 18px; }
